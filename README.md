@@ -5,7 +5,7 @@ This ASP.NET Core API retrieves the best stories from the Hacker News API based 
 
 ## How to Run the Application
 
-1. Ensure you have .NET 6.0 SDK or later installed on your machine.
+1. Ensure you have .NET 8.0 SDK or later installed on your machine.
 2. Clone this repository to your local machine.
 3. Navigate to the project directory in your terminal.
 4. Run the following command to start the application:
